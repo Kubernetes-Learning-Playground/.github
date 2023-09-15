@@ -10,8 +10,8 @@
 
 #### 多集群工具
 
-- a. [**multi-cluster-informer**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-informer) :兼容原生client-go, 实现对多集群的informer功能
-- b. [**multi-cluster-clientgo**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-clientgo) :兼容原生client-go, 实现多集群的client-go功能
+- a. [**multi-cluster-informer**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-informer) :兼容原生client-go, 实现对多集群的informer功能的SDK
+- b. [**multi-cluster-clientgo**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-clientgo) :兼容原生client-go, 实现多集群的client-go功能的SDK
 
 #### 集群内扩展实践
 
