@@ -12,7 +12,7 @@
 
 - a. [**multi-cluster-informer**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-informer) :兼容原生client-go, 实现对多集群的informer功能的SDK
 - b. [**multi-cluster-clientgo**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-clientgo) :兼容原生client-go, 实现多集群的client-go功能的SDK
-- c. [**multi-cluster-resource-storage**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-resource-storage):实现多集群多资源的简易存储方案，用于多集群查询
+- c. [**multi-cluster-resource-storage**](https://github.com/Kubernetes-Learning-Playground/multi-cluster-resource-storage):实现多集群简易方案，用于多集群资源的查询与下发
 
 #### 集群内扩展实践
 
