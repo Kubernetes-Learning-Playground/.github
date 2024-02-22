@@ -19,8 +19,7 @@
 - a. [**kube-event-collector**](https://github.com/Kubernetes-Learning-Playground/kube-event-collector) :基于k8s中集群的event事件通知器，对接结构化日志、prometheus metrics、邮件发送等功能
 - b. [**k8s-webhook-develop**](https://github.com/Kubernetes-Learning-Playground/k8s-webhook-develop): 基于k8s-apiserver的webhook扩展，实现简易镜像白名单、黑名单或支持pod sider功能
 - c. [**k8s-aggregator-apiserver**](https://github.com/Kubernetes-Learning-Playground/k8s-aggregator-apiserver-demo) : 基于k8s提供的aggregator-apiserver进行控制器扩展demo
-- d. [**my-sample-kubelet**](https://github.com/Kubernetes-Learning-Playground/my-sample-kubelet) : 基于k8s的简易轻量级kubelet工作节点
-- e. [**k8s-leader-election**](https://github.com/Kubernetes-Learning-Playground/k8s-leader-election-demo) :基于k8s提供的分布式锁，实现集群内pod的选主机制
+- d. [**k8s-leader-election**](https://github.com/Kubernetes-Learning-Playground/k8s-leader-election-demo) :基于k8s提供的分布式锁，实现集群内pod的选主机制
 
 #### 自定义调度器实践
 
